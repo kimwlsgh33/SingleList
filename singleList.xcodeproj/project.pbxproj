@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		98C1F76329AB3D9800A7E9C8 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 98C1F76229AB3D9800A7E9C8 /* main.c */; };
+		98DB7BB929AB6A8B00A71B1E /* debugSingleList.c in Sources */ = {isa = PBXBuildFile; fileRef = 98DB7BB829AB6A8B00A71B1E /* debugSingleList.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		98C1F75F29AB3D9800A7E9C8 /* singleList */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = singleList; sourceTree = BUILT_PRODUCTS_DIR; };
 		98C1F76229AB3D9800A7E9C8 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		98DB7BB829AB6A8B00A71B1E /* debugSingleList.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = debugSingleList.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				98C1F76229AB3D9800A7E9C8 /* main.c */,
+				98DB7BB829AB6A8B00A71B1E /* debugSingleList.c */,
 			);
 			path = singleList;
 			sourceTree = "<group>";
@@ -120,6 +123,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				98C1F76329AB3D9800A7E9C8 /* main.c in Sources */,
+				98DB7BB929AB6A8B00A71B1E /* debugSingleList.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
